@@ -1,4 +1,4 @@
-# TensorFlow-for-AI:
+# TensorFlow for AI:
 
 Week 1 Assignment: Housing Prices¶
 
