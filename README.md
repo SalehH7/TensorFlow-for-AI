@@ -1,4 +1,4 @@
-# Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and...
+# Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and
 DeepLearning.AI:
 
 Week 1 Assignment: Housing Prices¶
