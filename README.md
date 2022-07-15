@@ -18,7 +18,7 @@ a data set containing items of clothing.
 Now,similar dataset called MNIST which has items of handwriting -- the digits 0 through 9.
 
 # Learning Objectives
-Use callback functions for tracking model loss and accuracy during training
-Make predictions on how the layer size affects network predictions and training speed
-Implement pixel value normalization to speed up network training
-Build a multilayer neural network for classifying the Fashion MNIST image dataset
+Use callback functions for tracking model loss and accuracy during training,
+Make predictions on how the layer size affects network predictions and training speed,
+Implement pixel value normalization to speed up network training,
+Build a multilayer neural network for classifying the Fashion MNIST image dataset.
