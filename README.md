@@ -3,7 +3,7 @@
 
 https://www.coursera.org/learn/introduction-tensorflow/home/info
 
-#Week 1 
+# Week 1 
 
 Assignment: Housing Prices¶
 
