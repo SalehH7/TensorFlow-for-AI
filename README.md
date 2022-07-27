@@ -3,7 +3,9 @@
 
 https://www.coursera.org/learn/introduction-tensorflow/home/info
 
-Week 1 Assignment: Housing Prices¶
+#Week 1 
+
+Assignment: Housing Prices¶
 
  you'll get a soft introduction to what Machine Learning and Deep Learning are, 
  and how they offer you a new programming paradigm, 
