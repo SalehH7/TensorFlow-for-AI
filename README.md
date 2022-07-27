@@ -32,3 +32,10 @@ Build a multilayer neural network for classifying the Fashion MNIST image datase
 # Week 3:
 
 Improve MNIST with Convolutions. 
+
+# Week 4:
+
+Handling Complex Images - Happy or Sad Dataset
+
+
+In this assignment you will be using the happy or sad dataset, which contains 80 images of emoji-like faces, 40 happy and 40 sad.
